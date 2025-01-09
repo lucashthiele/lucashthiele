@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas H. Thiele</h1>
 <h3 align="center">A Software Engineer based on Brazil and focused on building Fullstack projects</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucashthiele" alt="lucashthiele" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucashthiele&theme=onedark&row=3&column=3&margin-w=15&margin-h=15" alt="lucashthiele" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lucashthiele" target="blank"><img src="https://img.shields.io/twitter/follow/lucashthiele.svg?style=social" alt="lucashthiele" /></a> </p>
 
