@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas H. Thiele</h1>
-<h3 align="center">A Software Engineer based on Brazil and focused on building Fullstack projects</h3>
+<h3 align="center">Software Engineer based on Brazil and focused on building Fullstack projects</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucashthiele&theme=onedark&row=3&column=3&margin-w=15&margin-h=15" alt="lucashthiele" /></a> </p>
 
