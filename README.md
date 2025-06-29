@@ -9,3 +9,5 @@ I enjoy:
 - Automating workflows and processes
 
 Explore my repositories to see what I'm working on.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashthiele&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
