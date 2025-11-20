@@ -8,6 +8,7 @@ I enjoy:
 - Working with distributed systems
 - Automating workflows and processes
 
-Explore my repositories to see what I'm working on.
+Currently, I'm working on Routine Revo, a web/mobile app that will revolutionize your gym routines. 
+See my repositories below to get a glimpse of what I'm doing.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashthiele&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
